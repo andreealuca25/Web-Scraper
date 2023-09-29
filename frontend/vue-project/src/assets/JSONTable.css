@@ -1,0 +1,32 @@
+.json-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-top: 16px;
+}
+
+.json-table th,
+.json-table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.key-header {
+  background-color: #f0f0f0;
+  font-weight: bold;
+  text-align: left;
+}
+
+.key-cell {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.array-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.array-list li {
+  margin-bottom: 4px;
+}

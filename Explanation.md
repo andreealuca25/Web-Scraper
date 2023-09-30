@@ -8,6 +8,7 @@ Features:
 -My scraper handles text, links, and images, making it highly versatile.
 -User input validation ensures reliability and user-friendliness.
 -I prioritized user experience by presenting the JSON data in an intuitive table format.
+-I added a download JSON function and a function for viewing images in another tab.
 
 Learning Experience:
 

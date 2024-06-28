@@ -1,4 +1,4 @@
-# Web-Scraping-Api-Project
+# Web-Scraper
 
 How to run?
 
